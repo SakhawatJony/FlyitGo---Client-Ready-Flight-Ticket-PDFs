@@ -44,7 +44,6 @@ npm run dev
 
 - `/` Landing page
 - `/app` Ticket generator
-- `/admin` Admin panel
 
 ## Deployment (Netlify)
 
@@ -90,4 +89,3 @@ npm run dev
 
 - `/` ল্যান্ডিং পেজ
 - `/app` টিকিট জেনারেটর
-- `/admin` অ্যাডমিন প্যানেল
