@@ -4,6 +4,8 @@ FlyitGo is a web app for travel agents to turn raw GDS PNR text into clean,
 branded flight itinerary PDFs that are easy to share with clients on WhatsApp.
 It supports free daily usage, PRO upgrades, and admin-only access controls.
 
+Live site: http://flyitgo.com/
+
 ## Project overview
 
 This project delivers:
